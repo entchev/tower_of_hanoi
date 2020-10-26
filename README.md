@@ -1,1 +1,1 @@
-# tower_of_hanoi
+A simple JavaScript game
